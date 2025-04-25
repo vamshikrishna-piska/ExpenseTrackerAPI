@@ -24,7 +24,7 @@ python manage.py runserver
 
 
 
-API Endpoints=>
+API Endpoints=> Use postman for testing
 POST /api/token/ - Obtain JWT token
 POST /api/register/ - Register a new user
 GET /api/expenses/ - View expenses
